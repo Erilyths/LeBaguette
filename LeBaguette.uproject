@@ -81,6 +81,10 @@
 		{
 			"Name": "LinuxDeviceProfileSelector",
 			"Enabled": false
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
